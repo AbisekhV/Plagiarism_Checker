@@ -1,0 +1,22 @@
+Plagiarism is defined as to take or theft 
+some work and present it has one’s own work.
+ This grammar and plagiarism checker system 
+ is used to analyze the plagiarism data. Pla
+ giarism affects the education quality of th
+ e students and thereby reduce the economic 
+ status of the country. Plagiarism is done by
+  paraphrased works and the similarities betwee
+  n keywords and verbatim overlaps, change of s
+  entences from one form to other form, which could 
+  be identified using WordNet etc. This plagiarism 
+  detector measures the similar text that matches 
+  and detects plagiarism. Internet has changed the
+student’s life and also has changed their learning
+style. It allows the students to get deeper in the
+approach towards learning and making their task
+ easier. Many methods are employed in detecting
+plagiarism. Usually plagiarism detection is done
+using text mining method. In this plagiarism
+checker software, user can register with their
+ basic registration details and create a valid
+ login id and password.
